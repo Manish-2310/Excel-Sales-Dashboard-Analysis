@@ -72,16 +72,7 @@ This strategy can help significantly improve store sales performance.
 
 ---
 
-## 🔮 Future Improvements
-- Power BI dashboard version
-- Automated data refresh
-- Predictive sales analysis using Python
-- Customer segmentation using Machine Learning
-
----
-
 ## 👩‍💻 Author
-**Your Name**  
-Data Analyst | Data Science Enthusiast  
+**MANISH SHARMA**   
 📧 manish9812806554@gmail.com
 🔗 LinkedIn: [https://www.linkedin.com/in/manish-sharma-538559304](https://www.linkedin.com/in/manish-sharma-538559304)
