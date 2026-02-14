@@ -55,18 +55,6 @@ This strategy can help significantly improve store sales performance.
 
 ---
 
-## 📂 Repository Structure
-excel-sales-dashboard-analysis/
-│
-├── Mine Store Data Analysis.xlsx
-├── README.md
-├── project_summary.pdf
-└── screenshots/
-└── dashboard_preview.png
-
-
----
-
 ## 🚀 How to Use
 1. Download the Excel file from this repository.
 2. Open using Microsoft Excel (2016 or later recommended).
@@ -95,5 +83,5 @@ excel-sales-dashboard-analysis/
 ## 👩‍💻 Author
 **Your Name**  
 Data Analyst | Data Science Enthusiast  
-📧 manish9812806554@gmail.com(manish9812806554@gmail.com)
+📧 manish9812806554@gmail.com
 🔗 LinkedIn: [https://www.linkedin.com/in/manish-sharma-538559304](https://www.linkedin.com/in/manish-sharma-538559304)
