@@ -51,7 +51,7 @@ This strategy can help significantly improve store sales performance.
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](screenshot/dashboard_preview.png)
 
 ---
 
