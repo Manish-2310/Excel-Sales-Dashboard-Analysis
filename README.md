@@ -53,4 +53,7 @@ This strategy can significantly improve store sales performance.
 
 ---
 
-## 📂 Repository Structure
+## 🖼️ Dashboard Preview
+
+![Dashboard Preview](screenshots/dashboard_preview.png)
+
